@@ -1,7 +1,7 @@
 {
   "magisk": {
-    "version": "27.0",
-    "versionCode": "27000",
+    "version": "070719db-alpha",
+    "versionCode": "28001",
     "link": "https://si138.github.io/1/1/alpha.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/27000.md"
   },
